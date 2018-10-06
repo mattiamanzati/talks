@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "target": "es5",
+        "moduleResolution": "node",
+        "outDir": "lib",
+        "declaration": true,
+        "lib": [
+            "esnext"
+        ]
+    },
+    "files": [
+        "./src/index.ts"
+    ]
+}
