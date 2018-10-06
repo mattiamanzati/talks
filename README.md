@@ -1,1 +1,1 @@
-- [./you-may-not-know-typescript/](You may not know TypeScript (Advanced TypeScript types))
+- [https://github.com/mattiamanzati/talks/tree/master/you-may-not-know-typescript](You may not know TypeScript (Advanced TypeScript types))
